@@ -1,0 +1,13 @@
+NEXT
+	* Added $VIRTUALENVWRAPPER_HOOK_DIR customization variable.
+	* Added tests for the project extension.
+	* Added mkproject alias.
+	* Added setvirtualenvproject alias.
+	* Assorted fixes.
+	* Added new test framework.
+	* Added support for project templates.
+11.8.28
+	* VirtualEnvWrapper is now a clone in PowerShell (no Python code)
+	* UserScripts extension
+	* Project management extension
+	* Tab expasion for VirtualEnvWrapper
